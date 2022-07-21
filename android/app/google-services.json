@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92474648299",
+    "project_id": "worldtimeflag",
+    "storage_bucket": "worldtimeflag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92474648299:android:81807c35aacfacf4c7c0ae",
+        "android_client_info": {
+          "package_name": "com.example.world_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92474648299-7osr5kc41rlga58j5h8k2ejmgos33hvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQdF6H89pSKZ_0dJnUbvKJugehRd0mhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92474648299-7osr5kc41rlga58j5h8k2ejmgos33hvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
